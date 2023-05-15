@@ -5,28 +5,26 @@
 </p>
 
 <p align="center">
-    <a href="https://rodrusantu-dev.github.io/LojaSuperHero/">Acessar a demonstração</a>
+    <a href="https://rodrusantu-dev.github.io/LojaSuperHero/" target="_blank">Acessar a demonstração</a>
 </p>
 
 ## Índice
 
-## Índice
+- [Sobre](#sobre)
+- [Pré-requisitos](#pré-requisitos)
+- [Status do Projeto](#status-do-projeto)
+- [Como baixar o projeto](#como-baixar-o-projeto)
+- [Iniciando o Projeto](#iniciando-o-projeto)
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Versão](#versão)
+- [Licença](#licença)
+- [Autor](#autor)
 
-- [Sobre](#-sobre)
-- [Pré-requisitos](#-pré-requisitos)
-- [Status do Projeto](#-status-do-projeto)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Iniciando o Projeto](#-iniciando-o-projeto)
-- [Ferramentas utilizadas](#-ferramentas-utilizadas)
-- [Versão](#-versão)
-- [Licença](#-licença)
-- [Autor](#-autor)
-
-## 💡 Sobre
+## Sobre
 
 O projeto é uma loja de bonecos.
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Para instalar o software, você precisará das seguintes ferramentas:
 
@@ -34,17 +32,19 @@ Para instalar o software, você precisará das seguintes ferramentas:
 - Git
 - Github
 
-## 🏁 Status do Projeto
+## Status do Projeto
 
 > Status do Projeto: Concluído :heavy_check_mark:
-							     
-## 🗂 Como baixar o projeto
-```
-#### Opção 1: Clonar o repositório
+
+## Como baixar o projeto
+
+```bash
+# Opção 1: Clonar o repositório
 $ git clone https://github.com/rodrusantu-dev/LojaSuperHero
 
-### Opção 2: Fazer o download do Projeto
+# Opção 2: Fazer o download do Projeto
 * Acessar via VS Code no seu computador.
+
 ```
 
 ## ⚙️ Iniciando o Projeto
