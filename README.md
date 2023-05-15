@@ -11,19 +11,17 @@ Um trabalho de Desenvolvimento Web do curso de Fullstack da Fullture School, usa
 <h3 >
 
 
- # Índice
+ ## Índice
 
 - [Sobre](#-Sobre)
 - [Pré-requisitos](#-Pré-requisitos)
 - [Status do Projeto](#-Status-do-Projeto)
 
-
 ## 🔖&nbsp; Sobre
 
 O projeto é de um loja de bonecos
 
-
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
@@ -33,12 +31,10 @@ Git
 Github
 ```
 
-
-### 🏁Status do Projeto
+## 🏁Status do Projeto
 
 > Status do Projeto: Concluído :heavy_check_mark:
-
-
+							     
 ## 🗂 Como baixar o projeto
 
 ```bash
@@ -49,12 +45,10 @@ Github
     # Opção 02: Fazer o download do Projeto
     * Acessar via VS Code do seu computador.
 ```
-
 	
 ## ⚙️ Executando os testes
 
 Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
-
 
 ## 🛠️ Construído com
 
@@ -64,30 +58,18 @@ Mencione as ferramentas que você usou para criar seu projeto
 * CSS3
 * VSCode
 
-
 ## 📌 Versão
 
-1.0 - Final do projeto do Módulo de HTML e CSS
-
+1.0 - Final do projeto do Módulo de HTML e CSS <br>
 
 ## 📄 Licença
 
 Use a vondade o projeto e seus códigos, **desde que** seja sempre citado a fonte do Projeto.
 
-
-## 🎁 Expressões de gratidão
-
-* Obrigado Deus!
-      
-
-### ✒️Autor
-
+## ✒️Autor
 Feito com ❤️ por Rodrigo Menezes 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-	
+![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomenezesprogramador/) 
 
 ## Licença
 The MIT License (MIT)
