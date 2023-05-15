@@ -14,7 +14,7 @@
 - [Pré-requisitos](#-Pré-requisitos)
 - [Status do Projeto](#-Status-do-Projeto)
 - [Como baixar o projeto](#-Como-baixar-o-projeto)
-- [Executando os testes](#-Executando-os-testes)
+- [Executando Projeto](#-Executando-Projeto)
 - [Construído com](#-Construído-com)
 - [Versão](#-Versão)
 - [Licença](#-Licença)
@@ -46,7 +46,7 @@ $ git clone https://github.com/rodrusantu-dev/LojaSuperHero
 * Acessar via VS Code no seu computador.
 ```
 
-## ⚙️ Executando os testes
+## ⚙️ Executando Projeto
 
 Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
 
