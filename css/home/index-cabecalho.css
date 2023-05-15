@@ -3,7 +3,7 @@ header{
 }
 
 .header{
-    background-image: url("../../images/spidermanheader.jpg");
+    background-image: url("../../images/index/spidermanheader.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@ header{
 
 @media screen and (max-width: 768px){
     .header {
-        background-image: url("../../images/spidermanheader_mobile.jpg");
+        background-image: url("../../images/index/spidermanheader_mobile.jpg");
         background-position: center;
     }
 

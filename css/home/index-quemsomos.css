@@ -3,7 +3,7 @@
     grid-template-columns: 50vw auto;
     grid-template-rows: 200px auto;
     height: 100vh;
-    background-image: url("../../images/thor_header.jpg");
+    background-image: url("../../images/index/thor_header.jpg");
     background-size: cover;
     background-position: top center;
 }

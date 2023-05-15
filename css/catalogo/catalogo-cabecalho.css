@@ -1,5 +1,5 @@
 .header{
-    background-image: url("../../images/captainmarvelheader.jpg");
+    background-image: url("../../images/catalogo-header/captainmarvelheader.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -29,7 +29,7 @@
 }
 @media screen and (max-width: 481px){
     .header{
-        background-image: url("../../images/captainmarvelheader_Mobile.jpg");
+        background-image: url("../../images/catalogo-header/captainmarvelheader_Mobile.jpg");
         height: 80vh;
     }
 

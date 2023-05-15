@@ -8,10 +8,15 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: 150vh;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
 }
 
 .product-item{
     width: 30vw;
+    align-items: center;
+    justify-content: center;
 }
 
 .product-img{

@@ -11,14 +11,14 @@
 ## Índice
 
 - [Sobre](#-sobre)
-- [Pré-requisitos](#-pré-requisitos)
-- [Status do Projeto](#-status-do-projeto)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Executando os testes](#-executando-os-testes)
-- [Construído com](#-construído-com)
-- [Versão](#-versão)
-- [Licença](#-licença)
-- [Autor](#-autor)
+- [Pré-requisitos](#-Pré-requisitos)
+- [Status do Projeto](#-Status-do-Projeto)
+- [Como baixar o projeto](#-Como-baixar-o-projeto)
+- [Executando os testes](#-Executando-os-testes)
+- [Construído com](#-Construído-com)
+- [Versão](#-Versão)
+- [Licença](#-Licença)
+- [Autor](#-Autor)
 
 ## 💡 Sobre
 
@@ -61,6 +61,11 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## 📌 Versão
 
 1.0 - Final do projeto do Módulo de HTML e CSS <br>
+
+1.1 - MELHORIA (15/05/2023) 
+* Reorganizado as imagens em pastas 
+* Feito a descrição dos produtos no catálogo
+* Feito a descrição na página de contatos.
 
 ## 📄 Licença
 
