@@ -2,7 +2,7 @@
 Um trabalho de desenvolvimento web do curso de Fullstack da FulltureSchool, usando HTML e CSS, com treino de flexbox e grid, para orgniazação dos elementos visuais.
 
 <p align="center">
-      <img src="images/gitSiteHero.PNG" alt="Logo-bizuradodev" width="960" height="500">
+      <img src="images/gitSiteHero.PNG" alt="Logo-bizuradodev" width="960" height="450">
 </p>
 
 ## 🚀 Começando
