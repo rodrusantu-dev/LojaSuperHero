@@ -61,9 +61,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 Use a vondade o projeto e seus códigos, **desde que** seja sempre citado a fonte do Projeto.
 
 ## ✒️Autor
-Feito com ❤️ por Rodrigo Menezes 👋🏽 Entre em contato!
-
-![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomenezesprogramador/) 
+Feito com ❤️ por Rodrigo Menezes.
 
 ## Licença
 The MIT License (MIT)
