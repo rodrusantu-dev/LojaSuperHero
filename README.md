@@ -1,83 +1,63 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/60453269/233516295-acd066c4-dc18-404d-b479-48db92859de8.png" alt="Logo" width="200" height="200" />
-</p>
-
-<h1 align="center"> Readme </h1>
-
-<a id="Sumário"></a>
-
+# Loja de Bonecos - SuperHero
+Um trabalho de desenvolvimento web do curso de Fullstack da FulltureSchool, usando HTML e CSS, com treino de flexbox e grid, para orgniazação dos elementos visuais.
 
 <p align="center">
-  <b> Readme Legal </b></br>
-  <sub> Uma readme bonita, pratica e eficiente para usar em todos projeto e padronizar as readmes.
-  <sub>
+      <img src="images/gitSiteHero.PNG" alt="Logo-bizuradodev" width="960" height="500">
 </p>
 
+## 🚀 Começando
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-<p align="center">
-  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
- 
-<br/>
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 
-### 🚧 PROJETO EM ANDAMENTO 🚧
+### 📋 Pré-requisitos
 
-<br/>
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-<a id="Introdução"></a>
-## 🧩 Introdução 
+```
+VS Code
+Git
+Github
+```
 
-  ***⠀⠀⠀⠀Bem-vindo ao meu projeto de padronização de READMEs no GitHub! Ao longo dos anos, percebi que muitos dos meus projetos no GitHub tinham READMEs inconsistentes e mal formatados. Para resolver esse problema, desenvolvi um modelo de README que atende a todos os requisitos necessários e padroniza a apresentação de informações importantes.***
+### 🔧 Instalação
 
-<br/>
+Para replicar o site você pode usar o gitclone para fazer um cópia para o seu github
 
+```
+gh repo clone rodrusantu-dev/LojaSuperHero
+```
 
-<a id="Resultados"></a>
-## 🚀 Resultados 
-  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
+Ou
 
-<br/> 
-
-## Front-end
-
-### 💻 Desktop 
-  
-  
-## Back-end
+* Fazer o download do repositório para seu computador.
 
 
-<a id="Dependências"></a>
-## 🧪 Dependências
-> Requisitos para rotar o codigo...
+## ⚙️ Executando os testes
 
-<br/>
-
-## `📖 Instalação` 
-  
-  
-
-## `📖 Dependencies` 
-
-<a id="Ideias"></a>
-## 💡 Possíveis Melhoras
-> Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
+Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
 
 
+## 🛠️ Construído com
 
+Mencione as ferramentas que você usou para criar seu projeto
 
-<br /> 
+* HTML5
+* CSS3
+* VSCode
 
-<a id="Creditos"></a>
-## 🏆 Créditos
-> Todo o projeto foi feito por...
-  
-<br /> 
+## 📌 Versão
 
-<div > 
+1.0 - Final do projeto do Módulo de HTML e CSS
+
+## ✒️ Autores
+
+* **Rodrigo DEV** - *Trabalho Inicial* 
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+## 🎁 Expressões de gratidão
+
+* Obrigado Deus!
