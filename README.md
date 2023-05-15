@@ -8,7 +8,9 @@ Um trabalho de desenvolvimento web do curso de Fullstack da FulltureSchool, usan
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Abaixo o link do Projeto rodando:
 
+* [Loja Super Hero](https://rodrusantu-dev.github.io/LojaSuperHero/) - LINK
 
 ### 📋 Pré-requisitos
 
