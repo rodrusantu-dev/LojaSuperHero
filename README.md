@@ -11,14 +11,14 @@
 ## Índice
 
 - [Sobre](#sobre)
-- [Pré-requisitos](#pré-requisitos)
-- [Status do Projeto](#status-do-projeto)
-- [Como baixar o projeto](#como-baixar-o-projeto)
-- [Iniciando o Projeto](#iniciando-o-projeto)
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Versão](#versão)
-- [Licença](#licença)
-- [Autor](#autor)
+- [Pré-requisitos](#-pré-requisitos)
+- [Status do Projeto](#-status-do-projeto)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Iniciando o Projeto](#-iniciando-o-projeto)
+- [Ferramentas utilizadas](#-ferramentas-utilizadas)
+- [Versão](#-versão)
+- [Licença](#-licença)
+- [Autor](#-autor)
 
 ## 💡 Sobre
 
