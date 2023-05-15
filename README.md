@@ -40,12 +40,13 @@ Para instalar o software, você precisará das seguintes ferramentas:
 							     
 ## 🗂 Como baixar o projeto
 
-```bash
+```
 # Opção 1: Clonar o repositório
 $ git clone https://github.com/rodrusantu-dev/LojaSuperHero
 
 # Opção 2: Fazer o download do Projeto
 * Acessar via VS Code no seu computador.
+
 ```
 
 ## ⚙️ Iniciando o Projeto
