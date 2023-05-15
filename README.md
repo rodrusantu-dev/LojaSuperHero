@@ -8,18 +8,6 @@
     <a href="https://rodrusantu-dev.github.io/LojaSuperHero/" target="_blank">Acessar a demonstração</a>
 </p>
 
-## Índice
-
-* [Sobre](#-sobre)
-- [Pré-requisitos](#-pré-requisitos)
-- [Status do Projeto](#-status-do-projeto)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Iniciando o Projeto](#-iniciando-o-projeto)
-- [Ferramentas utilizadas](#-ferramentas-utilizadas)
-- [Versão](#-versão)
-- [Licença](#-licença)
-- [Autor](#-autor)
-
 ## Sobre
 
 O projeto é uma loja de bonecos.
