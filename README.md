@@ -10,7 +10,9 @@
 
 ## Índice
 
-- [Sobre](#sobre)
+## Índice
+
+- [Sobre](#-sobre)
 - [Pré-requisitos](#-pré-requisitos)
 - [Status do Projeto](#-status-do-projeto)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
