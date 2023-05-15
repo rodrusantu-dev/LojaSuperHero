@@ -16,10 +16,9 @@ Um trabalho de desenvolvimento web do curso de Fullstack da FulltureSchool, usan
 - [Pré-requisitos](#-Pré-requisitos)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## 🚀 Começando
+## 🔖&nbsp; Sobre
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-Abaixo o link do Projeto rodando:
+O projeto é de um loja de bonecos
 
 
 ### 📋 Pré-requisitos
@@ -35,21 +34,30 @@ Github
 <h4 align="left"> 
 	* Finalizado.
 </h4>
+	
+> Status do Projeto: Concluido :heavy_check_mark:
+
+> Status do Projeto: Em desenvolvimento :warning:
 <BR>
       
-### 🔧 Instalação
+## 🗂 Como baixar o projeto
 
-Para replicar o site você pode usar o gitclone para fazer um cópia para o seu github
+```bash
 
+    # Clonar o repositório
+    $ git clone https://github.com/danileao/rocketmusic
+
+    # Entrar no diretório
+    $ cd rocketmusic
+
+    # Instalar as dependências
+    $ yarn install
+
+    # Iniciar o projeto
+    $ yarn start
 ```
-gh repo clone rodrusantu-dev/LojaSuperHero
-```
 
-Ou
-
-* Fazer o download do repositório para seu computador.
-
-
+	
 ## ⚙️ Executando os testes
 
 Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
@@ -93,5 +101,11 @@ Use a vondade o projeto e seus códigos, **desde que** seja sempre citado a font
 
 Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+	
+## Licença
+The MIT License (MIT)
+
+Copyright ©️ Ano - Titulo do Projeto
