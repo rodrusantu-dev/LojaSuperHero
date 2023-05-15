@@ -1,51 +1,51 @@
 <h1 align="center">Loja de Bonecos - SuperHero</h1>
 
-Um trabalho de Desenvolvimento Web do curso de Fullstack da Fullture School, usando HTML e CSS, com treino de flexbox e grid, para organização dos elementos visuais.
-
 <p align="center">
-      <img src="images/gitSiteHero.PNG" alt="Logo-SiteHero width="960" height="400">
+    <img src="images/gitSiteHero.PNG" alt="Logo-SiteHero" width="960" height="400">
 </p>
 
-<h3 align="center">
+<p align="center">
     <a href="https://rodrusantu-dev.github.io/LojaSuperHero/">Acessar a demonstração</a>
-<h3 >
+</p>
 
+## Índice
 
- ## Índice
+- [Sobre](#sobre)
+- [Pré-requisitos](#pré-requisitos)
+- [Status do Projeto](#status-do-projeto)
+- [Como baixar o projeto](#como-baixar-o-projeto)
+- [Executando os testes](#executando-os-testes)
+- [Construído com](#construído-com)
+- [Versão](#versão)
+- [Licença](#licença)
+- [Autor](#autor)
 
-- [Sobre](#-Sobre)
-- [Pré-requisitos](#-Pré-requisitos)
-- [Status do Projeto](#-Status-do-Projeto)
+## 💡 Sobre
 
-## 🔖&nbsp; Sobre
-
-O projeto é de um loja de bonecos
+O projeto é uma loja de bonecos.
 
 ## 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Para instalar o software, você precisará das seguintes ferramentas:
 
-```
-VS Code
-Git
-Github
-```
+- VS Code
+- Git
+- Github
 
-## 🏁Status do Projeto
+## 🏁 Status do Projeto
 
 > Status do Projeto: Concluído :heavy_check_mark:
 							     
 ## 🗂 Como baixar o projeto
 
 ```bash
+# Opção 1: Clonar o repositório
+$ git clone https://github.com/rodrusantu-dev/LojaSuperHero
 
-    # Opção 01: Clonar o repositório
-    $ git clone https://github.com/rodrusantu-dev/LojaSuperHero
-
-    # Opção 02: Fazer o download do Projeto
-    * Acessar via VS Code do seu computador.
+# Opção 2: Fazer o download do Projeto
+* Acessar via VS Code no seu computador.
 ```
-	
+
 ## ⚙️ Executando os testes
 
 Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
