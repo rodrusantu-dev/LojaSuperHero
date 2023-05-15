@@ -2,7 +2,7 @@
 Um trabalho de desenvolvimento web do curso de Fullstack da FulltureSchool, usando HTML e CSS, com treino de flexbox e grid, para orgniazação dos elementos visuais.
 
 <p align="center">
-      <img src="images/gitSiteHero.PNG" alt="Logo-bizuradodev" width="960" height="450">
+      <img src="images/gitSiteHero.PNG" alt="Logo-bizuradodev" width="960" height="400">
 </p>
 
 ## 🚀 Começando
@@ -56,7 +56,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Use a vondade o projeto e seus códigos, **desde que** seja sempre citado a fonte do Projeto.
 
 ## 🎁 Expressões de gratidão
 
