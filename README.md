@@ -10,7 +10,7 @@
 
 ## Sobre
 
-O projeto é uma loja de bonecos.
+Projeto realizado no Curso de Dev Fullstack de Fullture, na criação de uma loja de bonecos funcional e atrativa, com desing responsivo, página de catálogo e página de contatos.
 
 ## Pré-requisitos
 
@@ -39,15 +39,11 @@ $ git clone https://github.com/rodrusantu-dev/LojaSuperHero
 
 Não houve necessidade de Teste de Software por ser aplicação HTML e CSS sem programação.
 
-## 🛠️ Ferramentas utilizadas
+## 🛠️ Stack utilizada
 
-Mencione as ferramentas que você usou para criar seu projeto
+**Front-end:** HTML e CSS
 
-* HTML5
-* CSS3
-* VSCode
-
-## 📌 Versão
+## 📌 Melhorias
 
 1.0 - Final do projeto do Módulo de HTML e CSS <br>
 
@@ -55,6 +51,10 @@ Mencione as ferramentas que você usou para criar seu projeto
 * Reorganizado as imagens em pastas 
 * Feito a descrição dos produtos no catálogo
 * Feito a descrição na página de contatos.
+
+## Suporte
+
+Para suporte, mande um email para rmenezes7@icloud.com 
 
 ## 📄 Licença
 
